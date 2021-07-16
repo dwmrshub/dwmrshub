@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dwmrshub
-- 👀 I’m interested in diffusion weighting magnetic resonance spectroscopy ("DWMRS") !
+- 👀 I’m interested in diffusion-weighted magnetic resonance spectroscopy ("DWMRS") !
 - 🌱 I’m currently learning how to make myself available for all :)
 - 💞️ I’m looking forward to meeting new DWMRS aficionados 
 
